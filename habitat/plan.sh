@@ -12,9 +12,9 @@
 # To explore all Habitat-maintained and community-contributed packages,
 # visit the Habitat Builder depot at https://bldr.habitat.sh/#/pkgs.
 
-pkg_name=sample-node-app
+pkg_name=habitat-sample-app
 pkg_origin=tansymi
-pkg_version="1.2.0"
+pkg_version="1.1.0"
 pkg_deps=(core/node)
 
 # Habitat provides you with a number of built-in "callbacks" to use
